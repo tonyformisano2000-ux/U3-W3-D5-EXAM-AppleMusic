@@ -6,7 +6,7 @@ import foto3 from "../assets/images/1c.png";
 const Hero = () => {
   return (
     <div className="container-fluid mt-4">
-      <h1 className="text-white mb-3">Novità</h1>
+      <h2 className="text-white ms-2">Novità</h2>
 
       <Carousel indicators={false} interval={null}>
         <Carousel.Item>
