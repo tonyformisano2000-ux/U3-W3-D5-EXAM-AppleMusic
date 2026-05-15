@@ -22,7 +22,7 @@ function App() {
             <Row>
               <Hero></Hero>
             </Row>
-            <Row>
+            <Row className="d-flex justify-content-center">
               <h3>Nuovi episodi radio</h3>
               <SquareContent />
             </Row>
